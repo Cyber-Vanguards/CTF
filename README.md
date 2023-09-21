@@ -13,7 +13,7 @@ Our main Capture the Flag repo containing solutions to challanges from the compe
     | ./tools/                | Folder containing various tools and scripts that may be used to aid in solving challenges.       |
     | ./macros/               | Folder containing various quality-of-life shell scritps.                                         |
 
-    * #### Categories
+    * ## Categories
         * cryptography
         * forensics
         * misc
