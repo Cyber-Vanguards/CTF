@@ -3,7 +3,7 @@ Our main Capture the Flag repo containing solutions to challanges from the compe
 
 ## Repository guidelines
 
-* ### Legend
+### Legend
     |    File or directory    |                                            Description                                           | 
     |-------------------------|--------------------------------------------------------------------------------------------------|
     | ./*_COMPLETED/          | The "_COMPLETED" suffix on a folder symbolises that the challenge has been completed.            |
@@ -13,17 +13,17 @@ Our main Capture the Flag repo containing solutions to challanges from the compe
     | ./tools/                | Folder containing various tools and scripts that may be used to aid in solving challenges.       |
     | ./macros/               | Folder containing various quality-of-life shell scritps.                                         |
 
-    * ## Categories
+  ## Categories
         * cryptography
         * forensics
         * misc
         * osint
         * pwn
         * stenography
-        * reverse_engingeering
+        * reverse_engineering
         * web
 
-* ### File structure
+### File structure
     ```
     .
     ├── CTFs/
