@@ -4,7 +4,7 @@ Our main Capture the Flag repo containing solutions to challanges from the compe
 ## Repository guidelines
 * ### File structure
     ```
-    ./
+    .
     ├── CTFs/
     │   ├── <competition 1>/
     │   │   ├── <category>/
