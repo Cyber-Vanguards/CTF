@@ -6,10 +6,10 @@ Our main Capture the Flag repo containing solutions to challanges from the compe
 * ### Legend
     |    File or directory    |                                            Description                                           | 
     |-------------------------|--------------------------------------------------------------------------------------------------|
-    | ./*/\*_COMPLETED/       | The "_COMPLETED" suffix on a folder symbolises that the challenge has been completed.            |
-    | ./*/result.txt          | File containing the flag obtained from a challenge.                                              |
-    | ./*/command.sh          | File containing the command used to obtain the flag.                                             |
-    | ./*/README.md           | File containing an atomic writeup of for a challenge.                                            |
+    | ./*_COMPLETED/       | The "_COMPLETED" suffix on a folder symbolises that the challenge has been completed.            |
+    | ./*result.txt          | File containing the flag obtained from a challenge.                                              |
+    | ./*command.sh          | File containing the command used to obtain the flag.                                             |
+    | ./*README.md           | File containing an atomic writeup of for a challenge.                                            |
     | ./tools/                | Folder containing various tools and scripts that may be used to aid in solving challenges.       |
     | ./macros/               | Folder containing various quality-of-life shell scritps.                                         |
 
