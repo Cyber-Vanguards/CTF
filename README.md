@@ -1,4 +1,4 @@
-# CTF
+# CTF 🏁
 Our main Capture the Flag repo containing solutions to challanges from the competitions we have competed in.
 
 ## Repository guidelines
