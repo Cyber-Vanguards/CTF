@@ -4,37 +4,41 @@ Our main Capture the Flag repo containing solutions to challanges from the compe
 ## Repository guidelines
 * ### File structure
     ```
-    .
-    ├── CTFs/
-    │   ├── <competition 1>/
-    │   │   ├── <category>/
-    │   │   │   ├── <task 1>/
-    │   │   │   │   ├── <file 1>
-    │   │   │   │   ├── <file 2>
-    │   │   │   │   ├── ...
-    │   │   │   │   ├── <file n>
-    │   │   │   │   ├── README.md
-    │   │   │   │   ├── result.txt
-    │   │   │   │   └── command.sh 
-    │   │   │   ├── <task 2>
-    │   │   │   ├── ...
-    │   │   │   └── <task n>
-    │   │   └── <category>
-    │   ├── <competition 2>
-    │   ├── ...
-    │   └── <competition n>
-    ├── tools/
-    │   ├── <script 1>
-    │   ├── <script 2>
-    │   ├── ...
-    │   └── <script n>
-    ├── macros/
-    │   ├── <script 1>
-    │   ├── <script 2>
-    │   ├── ...
-    │   └── <script n>
-    ├── README.md
-    └── .gitignore
+.
+├── CTFs/
+│   ├── <compettion 1>/
+│   │   ├── <year 1>/
+│   │   │   ├── <category>/
+│   │   │   │   ├── <task 1>/
+│   │   │   │   │   ├── <file 1>
+│   │   │   │   │   ├── <file 2>
+│   │   │   │   │   ├── ...
+│   │   │   │   │   ├── <file n>
+│   │   │   │   │   ├── README.md
+│   │   │   │   │   ├── result.txt
+│   │   │   │   │   └── command.sh 
+│   │   │   │   ├── <task 2>
+│   │   │   │   ├── ...
+│   │   │   │   └── <task n>
+│   │   │   └── <category>
+│   │   ├── <year 2>
+│   │   ├── ...
+│   │   └── <year n>
+│   ├── <compettion 2>
+│   ├── ...
+│   └── <compettion n>
+├── tools/
+│   ├── <script 1>
+│   ├── <script 2>
+│   ├── ...
+│   └── <script n>
+├── macros/
+│   ├── <script 1>
+│   ├── <script 2>
+│   ├── ...
+│   └── <script n>
+├── README.md
+└── .gitignore
     ```
 
 * ### Legend
