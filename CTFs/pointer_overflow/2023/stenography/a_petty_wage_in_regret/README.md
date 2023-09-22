@@ -18,7 +18,6 @@ Below this, a link was provided to download an image.
 
 <img height=300 src=DF2.jpg>
 <br>
-<br>
 
 > ### Information Gathering
 <br>
@@ -42,12 +41,10 @@ Using Stegsolve you can see numbers under the original picture but they are very
 
 <img height=300 src=ds2fuzzy.png>
 <br>
-<br>
 Using Stegsolve we get:
 <br>
 <br>
 <img height=300 src=DS2.png>
-<br>
 <br>
 The letters are hard to read so I tried extracting the second image from the first. I tried carving out the jpeg inside the jpeg but it was just a thumbnail image of the original.
 <br>
