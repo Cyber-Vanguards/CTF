@@ -2,7 +2,7 @@
 Author - Jo
 ---
 
-> ###Challenge Description -
+> ### Challenge Description -
 
 Here is a very interesting image. The flag has been broken up into several parts and embedded within it, so it will take a variety of skills to assemble it.
 
@@ -11,11 +11,11 @@ Below this, a link was provided to download an image.
 Here's the image:
 ![IMG](https://github.com/Cyber-Vanguards/CTF/blob/main/CTFs/pointer_overflow/2023/stenography/a_petty_wage_in_regret/DF2.jpg)
 
-> ###Information Gathering
+> ### Information Gathering
 
 The jpg file has obvious distortion which usually means there is another file hidden inside.
 
-> ###Enumeration
+> ### Enumeration
 
 exiftool gives us a User Comment: `3A3A50312F323A3A20706F6374667B757773705F3768335F7730726C645F683464` 
 This converts to the first half of the flag: ::P1/2:: `poctf{uwsp_7h3_w0rld_h4d`
@@ -34,7 +34,7 @@ Nothing in my bag of tricks worked. I ended up trying any combination I thought 
 
 Through trial and error I finally got the flag.
 
-> ###Tools
+> ### Tools
 
 https://stegonline.georgeom.net/checklist
 https://www.aperisolve.fr/
