@@ -1,6 +1,6 @@
 > ## A Petty Wage in Regret - Stenography
-Author - Jo
 ---
+Author: Jo
 
 > ### Challenge Description -
 
