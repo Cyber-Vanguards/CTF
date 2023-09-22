@@ -53,8 +53,8 @@ Our main Capture the Flag repo containing solutions to challanges from the compe
     
 * ### File and directory naming
   All directory and filenames should conform to the [snake_case](https://en.wikipedia.org/wiki/Snake_case) naming convention and should not contain charachters outside of the following set: {a-z, 0-9, _}.
-  The "_COMPLETED" suffix is an exception to this rule and should be concatenated to challenge directories
-  upon challenge completion i.e. ```$ mv <challenge>/ <challenge>_COMPLETED/```.
+  The "_COMPLETED" suffix is an exception to this rule and should be concatenated to challenge directories i.e. `$ mv <challenge>/ <challenge>_COMPLETED/`
+  upon challenge completion.
 
 ## Categories
 * cryptography
