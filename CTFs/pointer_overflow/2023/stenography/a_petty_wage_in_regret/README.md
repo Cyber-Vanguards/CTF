@@ -8,10 +8,8 @@ Here is a very interesting image. The flag has been broken up into several parts
 
 Below this, a link was provided to download an image.
 
-Here's the image:
-
-
 <img height=300 src=DF2.jpg>
+
 > ### Information Gathering
 
 The jpg file has obvious distortion which usually means there is another file hidden inside.
