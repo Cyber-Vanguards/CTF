@@ -9,8 +9,9 @@ Here is a very interesting image. The flag has been broken up into several parts
 Below this, a link was provided to download an image.
 
 Here's the image:
-![IMG](https://github.com/Cyber-Vanguards/CTF/blob/main/CTFs/pointer_overflow/2023/stenography/a_petty_wage_in_regret/DF2.jpg)
 
+
+![IMG](DF2.jpg)
 > ### Information Gathering
 
 The jpg file has obvious distortion which usually means there is another file hidden inside.
