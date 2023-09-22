@@ -31,7 +31,7 @@ Using Stegsolve we get:
 
 <!-- ![IMG](https://github.com/Cyber-Vanguards/CTF/blob/main/CTFs/pointer_overflow/2023/stenography/a_petty_wage_in_regret/DS2.png) -->
 
-![IMG3](DF2.jpg)
+![IMG3](DS2.jpg)
 
 The letters are hard to read so I tried extracting the second image from the first. I tried carving out the jpeg inside the jpeg but it was just a thumbnail image of the original.
 
