@@ -2,13 +2,13 @@
 
 ## Introduction
 
-<p align="center">
+<p align="left">
   <img height=500 img src=./readme_assets/challenge.png/>
 </p>
 
 Here is the .jpg file.
 
-<p align="center">
+<p align="left">
   <img height=500 img src=./readme_assets/DF2.jpg/>
 </p>
 
@@ -25,13 +25,13 @@ This tells us there are two parts to the flag and this is part 1.
 
 Using **`stegsolve`** you can see numbers under the original picture but they are very fuzzy and hard to see.
 
-<p align="center">
+<p align="left">
   <img height=500 img src=./readme_assets/ds2fuzzy.png/>
 </p>
 
 Playing more with **`stegsolve`** we finally get an image that has clearer text:
 
-<p align="center">
+<p align="left">
   <img height=500 img src=./readme_assets/DS2.png/>
 </p>
 
