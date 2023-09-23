@@ -2,7 +2,10 @@
 
 ## Introduction
 
-<img height=300 align=center src=./readme_assets/challenge.png>
+<p align="center">
+  <img height=500 img src=./readme_assets/challenge.png/>
+</p>
+<img height=500 align=center src=./readme_assets/challenge.png>
 
 
 Here is the .jpg file.
