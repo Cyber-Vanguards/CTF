@@ -8,6 +8,7 @@
 Here is the .jpg file.
 
 <p align="center">
+  <img height=300>
   <img src=./readme_assets/DF2.jpg/>
 </p>
 <img height=300 align=center src=./readme_assets/DF2.jpg>
