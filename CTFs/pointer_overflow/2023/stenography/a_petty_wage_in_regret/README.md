@@ -45,8 +45,8 @@ Through trial and error I finally got the flag.
 
 ## Tools
 
+**`stegsolve`**
+
 https://stegonline.georgeom.net/checklist
 
 https://www.aperisolve.fr/
-
-`Stegsolve`
