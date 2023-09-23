@@ -47,8 +47,6 @@ Through trial and error I finally got the flag.
 
 **`stegsolve`**
 
-https://stegonline.georgeom.net/checklist
-
-https://www.aperisolve.fr/
+https://stegonline.georgeom.net/
 
 https://29a.ch/photo-forensics/#forensic-magnifier
