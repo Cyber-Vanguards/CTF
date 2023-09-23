@@ -9,17 +9,22 @@ Our main Capture the Flag repo containing solutions to challanges from the compe
     │   ├── <compettion 1>/
     │   │   ├── <year 1>/
     │   │   │   ├── <category>/
-    │   │   │   │   ├── <task 1>/
+    │   │   │   │   ├── <challenge 1>/
     │   │   │   │   │   ├── <file 1>
     │   │   │   │   │   ├── <file 2>
     │   │   │   │   │   ├── ...
     │   │   │   │   │   ├── <file n>
-    │   │   │   │   │   ├── README.md
     │   │   │   │   │   ├── result.txt
-    │   │   │   │   │   └── command.sh 
-    │   │   │   │   ├── <task 2>
+    │   │   │   │   │   ├── command.sh
+    │   │   │   │   │   ├── README.md
+    │   │   │   │   │   └── readme_assets/
+    │   │   │   │   │       ├── <file 1>
+    │   │   │   │   │       ├── <file 2>
+    │   │   │   │   │       ├── ...
+    │   │   │   │   │       └── <file n>
+    │   │   │   │   ├── <challenge 2>
     │   │   │   │   ├── ...
-    │   │   │   │   └── <task n>
+    │   │   │   │   └── <challenge n>
     │   │   │   └── <category>
     │   │   ├── <year 2>
     │   │   ├── ...
@@ -42,14 +47,15 @@ Our main Capture the Flag repo containing solutions to challanges from the compe
     ```
 
 * ### Legend
-    |    File or directory    |                                            Description                                           | 
-    |-------------------------|--------------------------------------------------------------------------------------------------|
-    | ./*_COMPLETED/          | The "_COMPLETED" suffix on a folder symbolises that the challenge has been completed.            |
-    | ./*result.txt           | File containing the flag obtained from a challenge.                                              |
-    | ./*command.sh           | File containing the command used to obtain the flag.                                             |
-    | ./*README.md            | File containing an atomic writeup for a challenge.                                               |
-    | ./tools/                | Folder containing various tools and scripts that may be used to aid in solving challenges.       |
-    | ./macros/               | Folder containing various quality-of-life shell scritps.                                         |
+    |        File or directory        |                                            Description                                           | 
+    |---------------------------------|--------------------------------------------------------------------------------------------------|
+    | ./*_COMPLETED/                  | The "_COMPLETED" suffix on a folder symbolises that the challenge has been completed.            |
+    | ./*<challenge>/result.txt       | File containing the flag obtained from a challenge.                                              |
+    | ./*<challenge>/command.sh       | File containing the command used to obtain the flag.                                             |
+    | ./*<challenge>/README.md        | File containing an atomic writeup for a challenge.                                               |
+    | ./*<challenge>/readme_assets/   | Folder containing any assets used by a challenge's readme.                                       |
+    | ./tools/                        | Folder containing various tools and scripts that may be used to aid in solving challenges.       |
+    | ./macros/                       | Folder containing various quality-of-life shell scritps.                                         |
     
 * ### File and directory naming
   All directory and filenames should conform to the [snake_case](https://en.wikipedia.org/wiki/Snake_case) naming convention and should not contain charachters outside of the following set: {a-z, 0-9, _}.
