@@ -1,7 +1,7 @@
 # A Petty Wage in Regret (stenography, 94 solves, 200p)
 
 ## Introduction
-<img style="float:right" src=./readme_assets/challenge.png />
+<img style="float:center" src=./readme_assets/challenge.png />
 <img height=300 align=center src=./readme_assets/challenge.png>
 
 
