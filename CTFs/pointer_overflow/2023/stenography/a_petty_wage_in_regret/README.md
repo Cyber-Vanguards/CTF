@@ -20,7 +20,7 @@ The jpg file has obvious distortion which usually means there is another file hi
 Convert from hex and you get **`::P1/2:: poctf{uwsp_7h3_w0rld_h4d`**
 This tells us there are two parts to the flag and this is part 1. 
 
-Using Stegsolve you can see numbers under the original picture but they are very fuzzy and hard to see.
+Using **`stegsolve`** you can see numbers under the original picture but they are very fuzzy and hard to see.
 
 <img height=300 align=center src=ds2fuzzy.png>
 
