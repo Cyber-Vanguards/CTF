@@ -1,0 +1,46 @@
+# A Petty Wage in Regret (stenography, 94 solves, 200p)
+
+## Introduction
+
+<img height=300 align=center src=challenge.png>
+
+Here is a very interesting image. The flag has been broken up into several parts and embedded within it, so it will take a variety of skills to assemble it.
+
+We are given a .jpg file.
+
+<img height=300 align=center src=DF2.jpg>
+
+## Task analysis
+
+The jpg file has obvious distortion which usually means there is another file hidden inside.
+
+## Enumeration
+
+`exiftool` gives us a user comment: `3A3A50312F323A3A20706F6374667B757773705F3768335F7730726C645F683464`
+
+Convert from hex and you get `::P1/2:: poctf{uwsp_7h3_w0rld_h4d`
+This tells us there are two parts to the flag and this is part 1. 
+
+Using Stegsolve you can see numbers under the original picture but they are very fuzzy and hard to see.
+
+<img height=300 align=center src=ds2fuzzy.png>
+
+Playing more with `stegsolve` we finally get an image that has clearer text:
+
+<img height=300 align=center src=DS2.png>
+
+The letters are hard to read so I tried extracting a second image from the first. I tried carving out the jpeg inside the jpeg but it was just a thumbnail image of the original and not useful.
+
+The picture above is obviously part 2 of the flag but was unable to read the the letter/number before 1257 `poctf{uwsp_7h3_w0rld_h4d_17_?1275}`
+
+## Solution
+
+Through trial and error I finally got the flag.
+
+## Tools
+
+https://stegonline.georgeom.net/checklist
+
+https://www.aperisolve.fr/
+
+`Stegsolve`
