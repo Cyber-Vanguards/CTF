@@ -5,8 +5,6 @@
 <p align="center">
   <img height=500 img src=./readme_assets/challenge.png/>
 </p>
-<img height=500 align=center src=./readme_assets/challenge.png>
-
 
 Here is the .jpg file.
 
@@ -27,11 +25,15 @@ This tells us there are two parts to the flag and this is part 1.
 
 Using **`stegsolve`** you can see numbers under the original picture but they are very fuzzy and hard to see.
 
-<img height=300 align=center src=./readme_assets/ds2fuzzy.png>
+<p align="center">
+  <img height=500 img src=./readme_assets/ds2fuzzy.png/>
+</p>
 
 Playing more with **`stegsolve`** we finally get an image that has clearer text:
 
-<img height=300 align=center src=./readme_assets/DS2.png>
+<p align="center">
+  <img height=500 img src=./readme_assets/DS2.png/>
+</p>
 
 The letters are hard to read so I tried extracting a second image from the first. I tried carving out the jpeg inside the jpeg but it was just a thumbnail image of the original and not useful.
 
