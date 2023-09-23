@@ -29,7 +29,7 @@ Using **`stegsolve`** you can see numbers under the original picture but they ar
   <img height=500 img src=./readme_assets/ds2fuzzy.png/>
 </p>
 
-Playing more with **`stegsolve`** we finally get an image that has clearer text:
+Using **`Forensically`** we can get a better view of the text using the Error Detection option.
 
 <p align="left">
   <img height=500 img src=./readme_assets/DS2.png/>
@@ -50,3 +50,5 @@ Through trial and error I finally got the flag.
 https://stegonline.georgeom.net/checklist
 
 https://www.aperisolve.fr/
+
+https://29a.ch/photo-forensics/#forensic-magnifier
