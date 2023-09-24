@@ -43,8 +43,6 @@ Used stegonline to extract the LSB. It took a lot of trial and error but finally
 
 ## Tools
 
-**`stegsolve`**
-
 https://stegonline.georgeom.net/checklist
 
-https://www.aperisolve.fr/
+
