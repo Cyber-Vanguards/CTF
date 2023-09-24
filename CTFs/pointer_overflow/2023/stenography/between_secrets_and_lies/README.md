@@ -3,7 +3,7 @@
 ## Introduction
 
 <p align="left">
-  <img height=500 img src=./readme_assets/challenge.PNG/>
+  <img height=700 img src=./readme_assets/challenge.PNG/>
 </p>
 
 Here is the .png image.
@@ -17,7 +17,7 @@ Here is the .png image.
 There are obvious colored pixels in the bottom right corner.
 
 <p align="left">
-  <img height=500 img src=./readme_assets/colors.PNG/>
+  <img height=300 img src=./readme_assets/colors.PNG/>
 </p>
 
 ## Enumeration
