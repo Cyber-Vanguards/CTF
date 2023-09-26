@@ -24,7 +24,7 @@ The challenge title makes me think of braille. I googled **`Sight Without Vision
 I spent hours on this challenge going down rabbit hole after rabbit hole. In the end, I tried the challenge title converted to Leet. There was the flag. I was WAY overthinking this one. 
 
 <p align="left">
-  <img height=700 img src=./readme_assets/facepalm.jpg/>
+  <img height=200 img src=./readme_assets/facepalm.jpg/>
 </p>
 
 ## Flag
