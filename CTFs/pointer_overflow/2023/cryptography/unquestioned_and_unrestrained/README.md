@@ -9,7 +9,7 @@
 ## Task analysis
 
 We are given ciphertext to decode: 
-> **`cG9jdGZ7dXdzcF80MTFfeTB1Ml84NDUzXzQyM184MzEwbjlfNzBfdTV9** 
+> **`cG9jdGZ7dXdzcF80MTFfeTB1Ml84NDUzXzQyM184MzEwbjlfNzBfdTV9`** 
 
 ## Solution
 
