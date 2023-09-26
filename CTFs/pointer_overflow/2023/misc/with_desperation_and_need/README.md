@@ -3,7 +3,7 @@
 ## Introduction
 
 <p align="left">
-  <img height=500 img src=./readme_assets/challenge.PNG/>
+  <img height=700 img src=./readme_assets/challenge.PNG/>
 </p>
 
 
@@ -21,7 +21,7 @@ The VeraCrypt file extension is **`.hs`** so we change the file to **`crack3.hs`
 Using the hint we grep the rockyou.txt file to **`crack.txt`** to use with hashcat. **`grep "^[A-Za-z0-9]"  rockyou.txt > crack.txt`**
 
 <p align="left">
-  <img height=500 img src=./readme_assets/gUn.PNG/>
+  <img height=300 img src=./readme_assets/gUn.PNG/>
 </p>
 
 We get lucky and only one password matches the hint given **`gUnGNmZg6E6x0k1RgrkS`**. No need to crack with hashcat.
