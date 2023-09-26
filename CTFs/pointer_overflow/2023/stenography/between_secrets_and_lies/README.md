@@ -28,9 +28,9 @@ There are obvious colored pixels in the bottom right corner.
 **`zsteg`** doesn't show anything useful.
 **`stegsolve`** gave me nothing.
 
-I opened the image in gimp and extracted the hex codes for the color blocks = ffff6642ffff51da4cff6e3c3c46ff
-Decoding in https://www.rapidtables.com/convert/number/ascii-hex-bin-dec-converter.html gives me nothing.
-Tried submitting poctf{uwsp_ffff6642ffff51da4cff6e3c3c46ff} but no go.
+I opened the image in gimp and extracted the hex codes for the color blocks = **`ffff6642ffff51da4cff6e3c3c46ff`**
+Decoding in [RapidTables](https://www.rapidtables.com/convert/number/ascii-hex-bin-dec-converter.html) gives me nothing.
+Tried submitting **`poctf{uwsp_ffff6642ffff51da4cff6e3c3c46ff}`** but no go.
 
 
 ## Solution
@@ -48,5 +48,5 @@ Used stegonline to extract the LSB. It took a lot of trial and error but finally
 ## Tools
 
 - [StegOnline](https://stegonline.georgeom.net/checklist)
-
+- [RapidTables](https://www.rapidtables.com/convert/number/ascii-hex-bin-dec-converter.html)
 
