@@ -15,7 +15,8 @@ We need to figure out what the VeraCrypt file extension is and crack the passwor
 
 The VeraCrypt file extension is **`.hs`** so we change the file to **`crack3.hs`**.
 
-The hint in the description tells us **`The password is alphanumeric (A-Z, a-z, 0-9), contains no special characters, and the first three characters are gUn`**
+"The hint in the description tells us:
+> "The password is alphanumeric (A-Z, a-z, 0-9), contains no special characters, and the first three characters are gUn"
 
 Using the hint we grep the rockyou.txt file to **`crack.txt`** to use with hashcat. **`grep "^[A-Za-z0-9]"  rockyou.txt > crack.txt`**
 
