@@ -21,7 +21,7 @@ I took a closer look at the challenge description and noticed **`poctf{uwsp_ _ _
 The challenge title makes me think of braille. I googled **`Sight Without Vision`** and found that this is a quote from Helen Keller. I find her full name, **`Helen Adams Keller`**, and try all variations in the Leet Translator. Still no flag. 
 ## Solution
 
-I spent hours on this challenge going down rabbit hole after rabbit hole. In the end, I tried the challenge title converted to Leet. There was the flag. I was WAY overthinking this one. 
+I spent hours on this challenge going down rabbit hole after rabbit hole. In the end, I tried the challenge title converted to Leet. ***There*** was the flag. I was ***WAY*** overthinking this one. 
 
 <p align="left">
   <img height=200 img src=./readme_assets/facepalm.jpg/>
