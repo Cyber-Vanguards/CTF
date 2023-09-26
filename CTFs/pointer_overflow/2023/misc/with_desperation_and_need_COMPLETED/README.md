@@ -25,10 +25,12 @@ Using the hint we grep the rockyou.txt file to **`crack.txt`** to use with hashc
 
 We get lucky and only one password matches the hint given **`gUnGNmZg6E6x0k1RgrkS`**. No need to crack with hashcat.
 
-Download a VeraCrypt container viewer to open the file. Input the password **`gUnGNmZg6E6x0k1RgrkS`**. Inside the container is a file named **`flag.txt`** which contains our flag.
+Download a [Veracrypt Viewer](https://www.veracrypt.fr/en/Home.html) to open the file. Input the password **`gUnGNmZg6E6x0k1RgrkS`**. Inside the container is a file named **`flag.txt`** which contains our flag.
+
+**`poctf{uwsp_qu4n717y_15_n07_4bund4nc3}`**
 
 ## Tools
 
 **`grep`**
 
-https://www.veracrypt.fr/en/Home.html
+[Veracrypt Viewer](https://www.veracrypt.fr/en/Home.html)
