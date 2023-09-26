@@ -13,7 +13,7 @@ Our main Capture the Flag repo containing solutions to challanges from the compe
 * web
 
 ## Repository guidelines
-All files larger than 100MB **must** be excluded from the repository.
+All files larger than 100 MB **must** be excluded from the repository.
 
 * ### File structure
     ```
