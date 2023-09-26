@@ -47,6 +47,6 @@ Used stegonline to extract the LSB. It took a lot of trial and error but finally
 
 ## Tools
 
-[StegOnline](https://stegonline.georgeom.net/checklist)
+- [StegOnline](https://stegonline.georgeom.net/checklist)
 
 

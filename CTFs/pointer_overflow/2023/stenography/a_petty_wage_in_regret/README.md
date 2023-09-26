@@ -49,8 +49,8 @@ Through trial and error I finally got the flag.
 
 ## Tools
 
-**`stegsolve`**
+- **`stegsolve`**
 
-[StegOnline](https://stegonline.georgeom.net/)
+- [StegOnline](https://stegonline.georgeom.net/)
 
-[Forensically](https://29a.ch/photo-forensics/#forensic-magnifier)
+- [Forensically](https://29a.ch/photo-forensics/#forensic-magnifier)

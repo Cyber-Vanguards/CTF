@@ -34,6 +34,6 @@ Download a [Veracrypt Viewer](https://www.veracrypt.fr/en/Home.html) to open the
 
 ## Tools
 
-**`grep`**
+- **`grep`**
 
-[Veracrypt Viewer](https://www.veracrypt.fr/en/Home.html)
+- [Veracrypt Viewer](https://www.veracrypt.fr/en/Home.html)
