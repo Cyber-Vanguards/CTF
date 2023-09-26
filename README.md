@@ -13,6 +13,8 @@ Our main Capture the Flag repo containing solutions to challanges from the compe
 * web
 
 ## Repository guidelines
+All files larger than 100MB **must** be excluded from the repository.
+
 * ### File structure
     ```
     .
@@ -77,4 +79,4 @@ Our main Capture the Flag repo containing solutions to challanges from the compe
         * Allowed characters: `A-Z` `a-z` `0-9` `_` `-` `.`
 
 ## Writeup guidelines
-    **WIP**
+**WIP**
