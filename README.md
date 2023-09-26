@@ -21,24 +21,22 @@ All files larger than 100MB **must** be excluded from the repository.
     ├── CTFs/
     │   ├── <compettion 1>/
     │   │   ├── <year 1>/
-    │   │   │   ├── <category>/
-    │   │   │   │   ├── <challenge 1>/
-    │   │   │   │   │   ├── <file 1>
-    │   │   │   │   │   ├── <file 2>
-    │   │   │   │   │   ├── ...
-    │   │   │   │   │   ├── <file n>
-    │   │   │   │   │   ├── result.txt
-    │   │   │   │   │   ├── command.sh
-    │   │   │   │   │   ├── README.md
-    │   │   │   │   │   └── readme_assets/
-    │   │   │   │   │       ├── <file 1>
-    │   │   │   │   │       ├── <file 2>
-    │   │   │   │   │       ├── ...
-    │   │   │   │   │       └── <file n>
-    │   │   │   │   ├── <challenge 2>
+    │   │   │   ├── <category>_<challenge 1>/
+    │   │   │   │   ├── <file 1>
+    │   │   │   │   ├── <file 2>
     │   │   │   │   ├── ...
-    │   │   │   │   └── <challenge n>
-    │   │   │   └── <category>
+    │   │   │   │   ├── <file n>
+    │   │   │   │   ├── result.txt
+    │   │   │   │   ├── command.sh
+    │   │   │   │   ├── README.md
+    │   │   │   │   └── readme_assets/
+    │   │   │   │       ├── <file 1>
+    │   │   │   │       ├── <file 2>
+    │   │   │   │       ├── ...
+    │   │   │   │       └── <file n>
+    │   │   │   ├── <category>_<challenge 2>
+    │   │   │   ├── ...
+    │   │   │   └── <category>_<challenge n>
     │   │   ├── <year 2>
     │   │   ├── ...
     │   │   └── <year n>
@@ -60,14 +58,14 @@ All files larger than 100MB **must** be excluded from the repository.
     ```
 
 * ### Legend
-    |          File or directory          |                                            Description                                           | 
-    |-------------------------------------|--------------------------------------------------------------------------------------------------|
-    | ./\*\<challenge\>/result.txt        | File containing the flag obtained from a challenge.                                              |
-    | ./\*\<challenge\>/command.sh        | File containing the command used to obtain the flag.                                             |
-    | ./\*\<challenge\>/README.md         | Readme containing a writeup for a challenge.                                                     |
-    | ./\*\<challenge\>/readme_assets/    | Folder containing any assets used by a challenge's readme.                                       |
-    | ./tools/                            | Folder containing various tools and scripts that may be used to aid in solving challenges.       |
-    | ./macros/                           | Folder containing various quality-of-life shell scritps.                                         |
+    |              File or directory              |                                            Description                                           | 
+    |---------------------------------------------|--------------------------------------------------------------------------------------------------|
+    | ./\*\<category>_<challenge\>/result.txt     | File containing the flag obtained from a challenge.                                              |
+    | ./\*\<category>_<challenge\>/command.sh     | File containing the command used to obtain the flag.                                             |
+    | ./\*\<category>_<challenge\>/README.md      | Readme containing a writeup for a challenge.                                                     |
+    | ./\*\<category>_<challenge\>/readme_assets/ | Folder containing any assets used by a challenge's readme.                                       |
+    | ./tools/                                    | Folder containing various tools and scripts that may be used to aid in solving challenges.       |
+    | ./macros/                                   | Folder containing various quality-of-life shell scritps.                                         |
     
 * ### File and directory naming
     * #### Locally created
