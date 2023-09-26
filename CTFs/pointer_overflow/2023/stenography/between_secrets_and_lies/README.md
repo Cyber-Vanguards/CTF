@@ -3,7 +3,7 @@
 ## Introduction
 
 <p align="left">
-  <img height=700 img src=./readme_assets/challenge.PNG/>
+  <img height=900 img src=./readme_assets/challenge.PNG/>
 </p>
 
 Here is the .png image.
