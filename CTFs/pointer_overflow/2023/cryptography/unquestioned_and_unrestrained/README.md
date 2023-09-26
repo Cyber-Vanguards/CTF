@@ -16,7 +16,7 @@ We are given ciphertext to decode:
 The ciphertext looks like base64. We put it into [Cyberchef Online](https://gchq.github.io/CyberChef/) and find our flag.
 
 <p align="left">
-  <img height=700 img src=./readme_assets/base64.PNG/>
+  <img height=300 img src=./readme_assets/base64.PNG/>
 </p>
 
 ## Flag
