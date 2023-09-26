@@ -41,8 +41,12 @@ Used stegonline to extract the LSB. It took a lot of trial and error but finally
   <img height=500 img src=./readme_assets/beans_solve.PNG/>
 </p>
 
+## Flag
+
+**`poctf{uwsp_m0r3_hum4n_7h4n_hum4n_15_0ur_m0770}`**
+
 ## Tools
 
-https://stegonline.georgeom.net/checklist
+[StegOnline](https://stegonline.georgeom.net/checklist)
 
 

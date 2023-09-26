@@ -43,10 +43,14 @@ The picture above is obviously part 2 of the flag but was unable to read the the
 
 Through trial and error I finally got the flag.
 
+## Flag
+
+**`poctf{uwsp_7h3_w0rld_h4d_17_f1275}`**
+
 ## Tools
 
 **`stegsolve`**
 
-https://stegonline.georgeom.net/
+[StegOnline](https://stegonline.georgeom.net/)
 
-https://29a.ch/photo-forensics/#forensic-magnifier
+[Forensically](https://29a.ch/photo-forensics/#forensic-magnifier)
