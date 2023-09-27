@@ -6,8 +6,6 @@
   <img height=700 img src=./readme_assets/passer-challenge.PNG/>
 </p>
 
-Include any images you are given in the challenge. You can snapshot code you are given as well.
-
 <p align="left">
   <img height=500 img src=./readme_assets/maze.PNG/>
 </p>
