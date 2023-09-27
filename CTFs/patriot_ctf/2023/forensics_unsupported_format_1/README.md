@@ -14,6 +14,10 @@ You can see an area that says CORRUPTED over and over. Remove everything with CO
 
 You are now able to open the file and get the flag.
 
+<p align="left">
+  <img height=700 img src=./readme_assets/flag2.jfif/>
+</p>
+
 ## Flag
 
 **`PCTF{c0rrupt3d_b1t5_4r3_c00l}`**
