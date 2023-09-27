@@ -6,16 +6,16 @@
 
 ## Solution
 
-The does not open. 
+The jpeg file does not open. 
 
 Use a hex editor (I use [HxD](https://mh-nexus.de/en/hxd/) to open the file. 
 
 You can see an area that says CORRUPTED over and over. Remove everything with CORRUPTED and save the file.
 
-You are now able to open the file and get the flag.
+You are now able to open the image and get the flag.
 
 <p align="left">
-  <img height=700 img src=./readme_assets/flag2.jfif/>
+  <img height=500 img src=./readme_assets/Flag2.jfif/>
 </p>
 
 ## Flag
