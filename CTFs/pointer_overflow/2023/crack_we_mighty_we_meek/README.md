@@ -47,10 +47,10 @@ A hint was released for this challenge. **`The password is only alphabetic chara
 
 ## Solution
 
-We grepped the rockyou.txt file for only passwords with letters and created a new wordlist to use with **`John the Ripper`**. 
+We grepped the **`rockyou.txt`** file for only passwords with letters and created a new wordlist to use with **`John the Ripper`**. 
 
 <p align="left">
-  <img height=700 img src=./readme_assets/john.PNG/>
+  <img height=300 img src=./readme_assets/john.PNG/>
 </p>
 
 After 8 hours it finally gave us the password **`hsppyhsppyjoyjoy`**
