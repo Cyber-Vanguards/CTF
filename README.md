@@ -77,7 +77,7 @@ All files larger than 100 MB **must** be excluded from the repository.
         * Allowed characters: `A-Z` `a-z` `0-9` `_` `-` `.`
 
 ## Writeup guidelines
-```
+```markdown
 # Challenge title <use # Heading level 1> (category, # solves, # points)
 
 You can add whatever headers make sense for your writeup but keep the basic format.
