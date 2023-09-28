@@ -123,5 +123,3 @@ List the tools you used to solve the challenge in a bulleted list.
 - ***`Tool`***
 - [resource](https://resource.com)
 ```
-
-**WIP**
