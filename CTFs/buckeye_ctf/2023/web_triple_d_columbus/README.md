@@ -5,7 +5,7 @@
 Take a snapshot of the challenge info.
 
 <p align="left">
-  <img height=700 img src=./readme_assets/triple-challenge.PNG/>
+  <img height=300 img src=./readme_assets/triple-challenge.PNG/>
 </p>
 
 You are given a link to a website.
@@ -19,7 +19,7 @@ You are given a link to a website.
 Looking at the source code we see the flag at the bottom.
 
 <p align="left">
-  <img height=500 img src=./readme_assets/flag.PNG/>
+  <img height=400 img src=./readme_assets/flag.PNG/>
 </p>
 
 ## Flag
