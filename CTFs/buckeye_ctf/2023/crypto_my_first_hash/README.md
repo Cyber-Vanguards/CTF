@@ -3,7 +3,7 @@
 ## Introduction
 
 <p align="left">
-  <img height=700 img src=./readme_assets/hash-challenge.PNG/>
+  <img height=300 img src=./readme_assets/hash-challenge.PNG/>
 </p>
 
 ## Solution
@@ -13,7 +13,7 @@ This challenge gives us a hash. First thing is to check if this is a known hash 
 This gives us our flag **`orchestra`**.
 
 <p align="left">
-  <img height=500 img src=./readme_assets/flag.PNG/>
+  <img height=300 img src=./readme_assets/flag.PNG/>
 </p>
 
 ## Flag
