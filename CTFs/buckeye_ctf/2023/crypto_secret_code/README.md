@@ -3,7 +3,7 @@
 ## Introduction
 
 <p align="left">
-  <img height=700 img src=./readme_assets/secret-challenge.PNG/>
+  <img height=300 img src=./readme_assets/secret-challenge.PNG/>
 </p>
 
 ## Solution
