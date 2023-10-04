@@ -3,7 +3,7 @@
 ## Introduction
 
 <p align="left">
-  <img height=700 img src=./readme_assets/starter-challenge.PNG/>
+  <img height=300 img src=./readme_assets/starter-challenge.PNG/>
 </p>
 
 We are given an executable named buffer and a c program called starter-buffer.
@@ -47,7 +47,7 @@ Looking at the code we see we have to make the flag equal ***`flag == 0x45454545
 Through trial and error I got the flag using a long string of **`E`**s. This would have been much easier if I had looked to see what letter **`0x45454545`** converted to.
 
 <p align="left">
-  <img height=300 img src=./readme_assets/buffer.PNG/>
+  <img height=400 img src=./readme_assets/buffer.PNG/>
 </p>
 
 <p align="left">
