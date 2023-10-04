@@ -3,7 +3,7 @@
 ## Introduction
 
 <p align="left">
-  <img height=700 img src=./readme_assets/menu-challenge.PNG/>
+  <img height=300 img src=./readme_assets/menu.PNG/>
 </p>
 
 For this challenge we get the source and binary of a small application.
@@ -52,13 +52,13 @@ fgets(buf, 50, stdin);
 The source is basically a menu structure where the program exits after every choice. At the bottom the flag is printed but for all positive numbers there is a matching branch, so we don't reach the print_flag call. 
 
 <p align="left">
-  <img height=500 img src=./readme_assets/game.PNG/>
+  <img height=300 img src=./readme_assets/game.PNG/>
 </p>
 
 Trying out different options we find that negative numbers and letters both give you the flag.
 
 <p align="left">
-  <img height=500 img src=./readme_assets/flag.PNG/>
+  <img height=300 img src=./readme_assets/flag.PNG/>
 </p>
 
 ## Flag
