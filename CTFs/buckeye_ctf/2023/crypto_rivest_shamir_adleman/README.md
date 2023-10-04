@@ -3,7 +3,7 @@
 ## Introduction
 
 <p align="left">
-  <img height=700 img src=./readme_assets/rivest-challenge.PNG/>
+  <img height=300 img src=./readme_assets/rivest-challenge.PNG/>
 </p>
 
 We are given a Python program.
@@ -39,7 +39,7 @@ print(f"c = {c}")
 Plug everything into the RSA calculator and get the flag. 
 
 <p align="left">
-  <img height=500 img src=./readme_assets/RSA.PNG/>
+  <img height=300 img src=./readme_assets/RSA.PNG/>
 </p>
 
 ## Flag
